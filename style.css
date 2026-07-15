@@ -1,0 +1,31 @@
+*{
+margin: 0;
+padding: 0;
+}
+body{
+    padding:10% 25%;
+    
+}
+.img-container{
+     text-align: center;
+     margin: 0;
+   
+}
+img{
+    box-sizing: border-box;
+    width:50vw;
+    height:50vh;
+  
+}
+.btn{
+    text-align:center;
+    border: 1px solid black;
+    margin-top:-4px;
+   background: linear-gradient(to right,  yellow,green);
+}
+button{
+    border:none;
+    background: none;
+    font-size: medium;
+    color: white;
+}
